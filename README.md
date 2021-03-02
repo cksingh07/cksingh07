@@ -1,4 +1,4 @@
-[![Header](https://github.com/cksingh07/cksingh07/blob/main/assets/MyHeader.png "Header")]
+![Header](https://github.com/cksingh07/cksingh07/blob/main/assets/MyHeader.png "Header")
 
 
 **cksingh07/cksingh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
