@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanchal Singh</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cksingh07&label=Profile%20views&color=0e75b6&style=flat" alt="cksingh07" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chanchal.host/](https://chanchal.host/)
 
-- 💬 Ask me about **PHP, MySQL & Javascript**
+- 💬 Ask me about **MySQL & Javascript**
 
 - 📫 How to reach me **cks.singh07@gmail.com**
 
