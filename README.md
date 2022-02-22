@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cksingh07&label=Profile%20views&color=0e75b6&style=flat" alt="cksingh07" /> </p>
 
-- 🌱 Skilled In **Node.js, MongoDB, AWS **
+- 🌱 Skilled In **Node.js, MongoDB, AWS**
 
 - 👨‍💻 All of my projects are available at [https://chanchal.host/](https://chanchal.host/)
 
