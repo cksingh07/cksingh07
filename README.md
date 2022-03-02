@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chanchal Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<p>I am a Software Engineer currently working at Eplanet Softwares, Jaipur, India
+
+I holds a B.Tech. degree in Computer Science and Engineering .
+
+I enjoys writing code in JavaScript and currently learning and falling in love with NodeJs
+Now, I feels like I owes something to this beautiful tech community and so is on journey to explore the whole new world of open source.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cksingh07&label=Profile%20views&color=0e75b6&style=flat" alt="cksingh07" /> </p>
 
